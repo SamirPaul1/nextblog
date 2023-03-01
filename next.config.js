@@ -13,7 +13,9 @@ module.exports = withBundleAnalyzer({
       'pbs.twimg.com',
       'abs.twimg.com',
       's3.us-west-2.amazonaws.com',
-      'transitivebullsh.it'
+      'samirpaul.in',
+      'samirpaul1.github.io',
+      'samirp.vercel.app'
     ],
     formats: ['image/avif', 'image/webp'],
     dangerouslyAllowSVG: true,
